@@ -1,0 +1,4 @@
+streamlit
+pymupdf
+sentence-transformers
+scikit-learn

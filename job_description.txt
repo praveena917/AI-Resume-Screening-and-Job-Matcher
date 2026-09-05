@@ -1,0 +1,14 @@
+We are looking for a Data Analyst who can analyze business data
+and generate actionable insights.
+
+Requirements:
+
+Strong knowledge of Python and SQL.
+Experience with Pandas and NumPy.
+Experience creating dashboards using Power BI.
+Good knowledge of Excel.
+Knowledge of data visualization using Matplotlib and Seaborn.
+Strong analytical and problem-solving skills.
+Knowledge of machine learning is a plus.
+Experience with Tableau is preferred.
+Knowledge of Git and GitHub is desirable.
